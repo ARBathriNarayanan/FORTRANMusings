@@ -1,3 +1,4 @@
+!Refer the file NM-Exe-4A for the data used
 PROGRAM Interpolation2
 IMPLICIT NONE
 
